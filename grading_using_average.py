@@ -29,10 +29,10 @@ if 90 <= average   and average <= 100:
     print('A')
 
 elif 80 <= average and average < 90:
-    print(B)
+    print('B')
 
 elif 70 <= average and average < 80:
-    print(C)
+    print('C')
 elif 60 <= average and average < 70:
     print('D')
 else:
