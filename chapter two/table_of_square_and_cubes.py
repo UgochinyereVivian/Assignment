@@ -1,3 +1,5 @@
+#Exercise 2.8 This code shows and calculates squares and cubes in a table format
+
 number = 0
 
 print("number \t  square \t cube")

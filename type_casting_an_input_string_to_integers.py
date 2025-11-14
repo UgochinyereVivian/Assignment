@@ -1,7 +1,0 @@
-#EXERCISE 2.2 THIS CODE DECLARES A VARIABLE CALLED RATING AND COLLECTS USER INPUT IN WHOLE NUMBER, WHICH BECOMES THE VALUE OF THE VARIABLE
-
-rating = int(input('Enter an integer rating between 1 and 10: \n'))
-
-print(rating)
-
-

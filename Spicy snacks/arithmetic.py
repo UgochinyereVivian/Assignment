@@ -1,5 +1,8 @@
 
 
+#               PSEUDOCODE
+
+
 print("Hello🤩️you will enter two numbers and arithmetic operators and the result will be printed for you!")
 
 number = int(input("Enter your first number: ")) 

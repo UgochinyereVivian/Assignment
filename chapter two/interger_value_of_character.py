@@ -1,4 +1,4 @@
-#Exercise 2.9 This code shows and calculates squares and cubes in a table format
+#Exercise 2.9 This code prints the integer representation of these strings
 
 ord('B')
 print(ord('B'))

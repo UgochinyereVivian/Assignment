@@ -1,4 +1,4 @@
-#this program showcases the different ways print function can be used
+#EXERCISE 2.1 this program showcases the different ways print function can be used
 
 x = 2
 y = 3
